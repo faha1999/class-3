@@ -1,0 +1,69 @@
+h1{
+	color: red;
+}
+
+h2{
+	color: #0978;
+}
+h3{
+	color: #1978;
+}
+h4{
+	color: #9778;
+}
+h5{
+	color: #9278;
+}
+h6{
+	color: #9768;
+}
+
+p{
+	color: blue;
+	font-size: 25px;
+	text-decoration: justify;
+}
+.para_1{
+	color: green;
+}
+
+#para_id_1{
+	color: red;
+}
+
+.header_clour{
+	background-color: black;
+}
+.header_clour h1,h2,h3{
+	color: white;
+}
+
+.header_clour h4,h5,h6{
+	color: green;
+}
+
+img{
+	width: 45%;
+	height: 45%;
+}
+
+.Image_upper img{
+	width: 500px;
+	height: 500px;
+}
+/*.Image_down{
+	width: 500px;
+	height: 500px;
+}
+*/
+#img_1{
+	float: left;
+}
+
+#img_2 {
+	float: right;
+}
+
+/*#img_3{
+	align-content: center;
+}*/
